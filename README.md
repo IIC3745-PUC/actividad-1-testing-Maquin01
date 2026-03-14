@@ -15,8 +15,8 @@ Necesito que me expliques claramente que contiene cada archivo, si es que depend
 ```
 **Evaluación de la respuesta:** La respuesta a cada prompt fue excelente, fue clara, concisa, respondió mis dudas y me sirvió claramente para realizar la tarea de manera efectiva
 **Justificación:** Me quedó clarisimo lo que tenía dudas, los ejemplos de assertEqual y Raise fueron claros y me explicó muy bien de que trataba el codigo preliminarmente antes de verlo por mi mismo, lo que fue sumamente útil, por ejemplo, sirvió que me indicara las 4 dependencias externas en checkout para usar Mockup o el orden de desarrollo para hacerlo mas fácil e intuitivo. 
-**¿Requirió trabajo adicional?:** No
-**Trabajo adicional realizado:** -
+**¿Requirió trabajo adicional?:** Si
+**Trabajo adicional realizado:** Toda la actividad básicamente.
 ## Reflexión final sobre el uso de IA
 
 **Describa brevemente cómo aportó la herramienta de IA al desarrollo de esta actividad:**
